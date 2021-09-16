@@ -1,4 +1,4 @@
-# ProyectosPersonales
+# Proyectos Personales
 Recopilación de alguno de mis proyectos personales
 
 El primero de ellos es un juego (3D) hecho con Unity llamado Graffiti Vandals. Fue realizado en muy pocos meses para el proyecto final de grado superior. Incorporo también la página web que tuve que hacer con mi compañero donde se explica más información acerca del juego.
